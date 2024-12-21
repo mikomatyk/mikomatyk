@@ -1,3 +1,7 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikomatyk)
+
+<!-- Below is the original default content provided by GitHub -->
+
 <!-- ## Hi there 👋 -->
 
 <!--
