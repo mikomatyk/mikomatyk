@@ -1,4 +1,8 @@
-## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikomatyk)
+
+<!-- Below is the original default content provided by GitHub -->
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **mikomatyk/mikomatyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
